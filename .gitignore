@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.env
+.playwright-mcp
+data/
+.cursor/commands/
